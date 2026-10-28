@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-   session_start();
+session_start();
    $username="user";
    $password="password";
    
